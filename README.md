@@ -6,8 +6,8 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* [repo](https://github.com/codefellows-seattle-javascript-401n7/lab-33/pull/1)
+* [travis][![Build Status](https://www.travis-ci.com/sgtbelly/lab-33.svg?branch=master)](https://www.travis-ci.com/sgtbelly/lab-33)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
 
